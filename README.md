@@ -4,7 +4,9 @@ This is a simple tip calculator. It computes the total amount based on a percent
 
 ## How to use
 1- Git clone or download
+
 2- Run live server
+
 3- Have fun playing around the calculator
 
 ## Images
